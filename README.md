@@ -7,7 +7,7 @@
 
 Minecraftforfree DLL'sini [indirin](https://github.com/kokluk/BedrockFree/releases/download/1.21.130/MinecraftForFree.dll).
 
-Burdaki [Burdan](https://github.com/kokluk/BedrockFree/releases/download/McBedrock/vcruntime140_1.dll) indirin.
+Burdaki [Linkten](https://github.com/kokluk/BedrockFree/releases/download/McBedrock/vcruntime140_1.dll) modloaderi indirin.
 
 Kurulumunu yapın ↙️
 
