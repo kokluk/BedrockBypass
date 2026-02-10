@@ -1,13 +1,13 @@
-# Basitce MC Lisans Atlama Aracı
+# Basitce MC Lisans Atlama Aracı📣
 
-### Minecraft 1.21.130+ için.
+### Minecraft 26.0+ için.
 
 
-## Nasıl Kullanılır
+## Nasıl Kullanılır❔
 
 Minecraftforfree DLL'sini [indirin](https://github.com/kokluk/BedrockFree/releases/download/1.21.130/MinecraftForFree.dll).
 
-Burdaki [Linkten](https://github.com/kokluk/BedrockFree/releases/download/McBedrock/vcruntime140_1.dll) modloaderi indirin.
+Burdan [Vcruntime'ı](https://github.com/kokluk/BedrockFree/releases/download/McBedrock/vcruntime140_1.dll) indirin.
 
 Kurulumunu yapın ↙️
 
@@ -19,6 +19,6 @@ Minecraftforfree DLL'sini WİN + R Yapıp APPDATA Yazın ve AppData\Roaming\Mine
 
 Not: Mods Klasör'ü yoksa oluşturun veya ModLoader'ın klasörü oluşturması için Minecraft'ı bir kez başlatın.
 
-Son olarak oyunu başlatın — Keyifli oyunlar.
+Son olarak oyunu başlatın — Keyifli oyunlar.😽
 
-Bu kadar! Ekstra bişey yok.
+Bu kadar! Ekstra bişey yok.🔥
