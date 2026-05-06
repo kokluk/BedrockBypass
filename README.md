@@ -1,6 +1,6 @@
 # Basitce MC Lisans Atlama Aracı📣
 
-### Minecraft 26.20+ için.
+### Minecraft 26.20+ için kaynak kodu güncel değildir 
 
 
 ## Nasıl Kullanılır❔
